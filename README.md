@@ -1,4 +1,4 @@
-# Predict-Future-Sales-
+# Predict-Future-Sales
 The business analized in this project was one of the largest Russian software firms - 1C Company. The data of this company is open source in Kaggle and have records of sales from 2013 to 2015, there are a lot of stores, items and categories on the products :smile:
 
 In this project we create various steps to determine health of the business analized. We used business intelligence to answer some questions of the past data, the questions that were asked were the following:
